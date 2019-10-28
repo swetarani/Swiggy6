@@ -1,1 +1,1 @@
-# Swiggy 6 notifier
+# Swiggy 6 notifier.
